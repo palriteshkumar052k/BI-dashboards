@@ -24,15 +24,15 @@ This interactive sales dashboard provides a comprehensive overview of IT hardwar
 
 # Features of the Sales Dashboard (FY 2024–25)
 
-1. Supervisor Filter
+1) Supervisor Filter
   i) Dropdown to filter sales data by individual supervisor.
   ii) Allows performance tracking and comparison across team members.
 
-2. Category-wise Quantity Sold (Bar Chart)
+2) Category-wise Quantity Sold (Bar Chart)
   1) Visual ranking of hardware categories (e.g., Monitor, CPU, Mouse) by quantity sold.
   2) Quickly identifies top and low-performing product categories.
 
-3. Total KPIs Panel
+3) Total KPIs Panel
   i) Total Sales: ₹16M
   ii) Total Cost: ₹12M
   iii) Total Profit: ₹4M
@@ -40,12 +40,12 @@ This interactive sales dashboard provides a comprehensive overview of IT hardwar
   v) Total Transactions: 797
   vi) These provide high-level financial and operational performance at a glance.
 
-4. Sales by State (Map Visualization)
+4) Sales by State (Map Visualization)
   i) Geographic distribution of sales across regions.
   ii) Bubble size indicates volume of sales per state.
   iii) Helps target high-potential or underperforming regions.
 
-5. Sales by Brand (Pie Chart)
+5) Sales by Brand (Pie Chart)
   i) Percentage share of total sales by brand (e.g., Intel, Samsung, Dell).
   ii) Aids in analyzing which brands drive the most revenue.
   iii) Identifies dependency on specific vendors.
@@ -74,4 +74,5 @@ May lead to insights around brand loyalty, vendor negotiation power, or customer
 797 total transactions over the year help gauge customer engagement or sales frequency.
 
 # Screenshot
+https://github.com/palriteshkumar052k/BI-dashboards/blob/main/Techno_sales_dashboard_report.jpg
 
